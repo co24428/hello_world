@@ -5,8 +5,6 @@ public class helloWorld {
 		System.out.println("Hello WOrld");
 		System.out.println("Hi WOrld");
 		System.out.println("Hello WOrld");
-		System.out.println(Math.abs(-10));
-		System.out.println(Math.PI);
 		
 	}
 }
